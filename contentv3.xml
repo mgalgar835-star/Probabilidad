@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -344,7 +344,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="314"></int>
+                  <int value="319"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -358,7 +358,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="9_127_2.18"></unicode>
+                <unicode value="9_127_2.19"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="7">
                  <dictionary>
@@ -369,7 +369,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="dados.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp8kXyB7/dados.jpg"></string>
+                  <string value="/tmp/tmpT8miBt/dados.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="9e36f957721f71cc85a76eea0197c4c4"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -398,7 +398,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="19"></int>
+           <int value="20"></int>
            <string role="key" value="parentNode"></string>
            <reference key="3"></reference>
           </dictionary>
@@ -658,8 +658,8 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;          Un &lt;strong&gt;experimento aleatorio&lt;/strong&gt; es aquél en el que si lo repetimos con las mismas condiciones iniciales no garantiza los mismos resultados. Así, por ejemplo, al lanzar una moneda no sabemos si saldrá cara o cruz, al lanzar un dado no sabemos qué número aparecerá, la extracción de las bolas de sorteos, loterías, etc. son experiencias que consideramos aleatorias puesto que en ellas no podemos predecir los resultados.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;         Por el contrario un &lt;strong&gt;experimento determinista&lt;/strong&gt; es aquel en que si se repiten las mismas condiciones iniciales se garantiza el mismo resultado. Por ejemplo, un móvil que circula a una velocidad constante durante un determinado tiempo, recorre siempre el mismo espacio; una combinación de sustancias en determinadas proporciones y temperatura producen siempre el mismo resultado de mezcla, etc.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;          Llamaremos &lt;strong&gt;experimento aleatorio&lt;/strong&gt; a todo experimento que repetido en las mismas condiciones no garantiza los mismos resultados. Así, por ejemplo, al lanzar una moneda no sabemos si saldrá cara o cruz, al lanzar un dado no sabemos el número aparecerá, la extracción de las bolas de sorteos, loterías, etc, son experiencias que consideramos aleatorias, en ellas no podemos predecir los resultados.&lt;/p&gt;
+&lt;p&gt;         Por el contrario un &lt;strong&gt;experimento determinista&lt;/strong&gt; es aquel que si se repite en las mismas condiciones se obtiene el mismo resultado. Por ejemplo, un móvil que circula a una velocidad constante durante un determinado tiempo recorre siempre el mismo espacio; una combinación de sustancias en determinadas proporciones y temperatura producen siempre el mismo resultado de mezcla, etc.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1856,7 +1856,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="312"></int>
+                        <int value="317"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1870,7 +1870,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.16"></unicode>
+                      <unicode value="26_128_2.17"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="33">
                        <dictionary>
@@ -1881,7 +1881,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="DiagramaArbol.webm"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp8kXyB7/DiagramaArbol.webm"></string>
+                        <string value="/tmp/tmpT8miBt/DiagramaArbol.webm"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d5aee328238fa67a25a2178f2087fcfd"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1910,7 +1910,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="17"></int>
+                 <int value="18"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="26"></reference>
                 </dictionary>
@@ -2739,7 +2739,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="315"></int>
+                        <int value="320"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2753,7 +2753,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_127_2.12"></unicode>
+                      <unicode value="33_127_2.13"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="48">
                        <dictionary>
@@ -2764,7 +2764,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                         <string role="key" value="_storageName"></string>
                         <string value="dado-de-doce-caras.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp8kXyB7/dado-de-doce-caras.jpg"></string>
+                        <string value="/tmp/tmpT8miBt/dado-de-doce-caras.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1ef4ac9d9eb0e7b81c3b7e784b31d1ee"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2793,7 +2793,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="13"></int>
+                 <int value="14"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="47"></reference>
                 </dictionary>
@@ -2926,7 +2926,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="313"></int>
+                        <int value="318"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2940,7 +2940,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="34_127_2.10"></unicode>
+                      <unicode value="34_127_2.11"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="51">
                        <dictionary>
@@ -2951,7 +2951,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                         <string role="key" value="_storageName"></string>
                         <string value="interseccion.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp8kXyB7/interseccion.png"></string>
+                        <string value="/tmp/tmpT8miBt/interseccion.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c0505f8dd9dd0c01eace89c208f866b3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2980,7 +2980,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="11"></int>
+                 <int value="12"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="47"></reference>
                 </dictionary>
@@ -3242,7 +3242,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="311"></int>
+                        <int value="316"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3256,7 +3256,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="36_128_2.5"></unicode>
+                      <unicode value="36_128_2.6"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="56">
                        <dictionary>
@@ -3267,7 +3267,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                         <string role="key" value="_storageName"></string>
                         <string value="Complementario.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp8kXyB7/Complementario.png"></string>
+                        <string value="/tmp/tmpT8miBt/Complementario.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4e85712895f9a9aeedd1bd39f15911dc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3296,7 +3296,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="6"></int>
+                 <int value="7"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="47"></reference>
                 </dictionary>
@@ -4006,6 +4006,8 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://creativecommons.org&quot;&gt;Probabilidad&lt;/a&gt; © 2025 by &lt;a href=&quot;https://creativecommons.org&quot;&gt;Manuel Gallardo García&lt;/a&gt; is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;&lt;img src=&quot;https://mirrors.creativecommons.org/presskit/icons/cc.svg&quot; alt=&quot;&quot; style=&quot;max-width: 1em; max-height: 1em; margin-left: .2em;&quot; /&gt;&lt;img src=&quot;https://mirrors.creativecommons.org/presskit/icons/by.svg&quot; alt=&quot;&quot; style=&quot;max-width: 1em; max-height: 1em; margin-left: .2em;&quot; /&gt;&lt;img src=&quot;https://mirrors.creativecommons.org/presskit/icons/nc.svg&quot; alt=&quot;&quot; style=&quot;max-width: 1em; max-height: 1em; margin-left: .2em;&quot; /&gt;&lt;img src=&quot;https://mirrors.creativecommons.org/presskit/icons/sa.svg&quot; alt=&quot;&quot; style=&quot;max-width: 1em; max-height: 1em; margin-left: .2em;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4030,7 +4032,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="69"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4106,7 +4108,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="69"></reference>
+  <reference key="12"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
